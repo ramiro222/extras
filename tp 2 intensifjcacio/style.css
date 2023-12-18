@@ -1,0 +1,41 @@
+    .h1 {
+    color: gold
+    ;
+}
+div {
+    background-color: yellow;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    display:inline-block;
+}
+
+    .logo {
+        width: 100px;
+        height: 100px;
+    }
+
+    .iphone {
+        width: 150px;
+        height: 150px;
+        
+    }   
+
+    .compu {
+        width: 150px;
+        height: 150px;
+        
+    }   
+    
+    .Lancha {
+        width: 150px;
+        height: 150px;
+    }
+
+    .Guitarra {
+        width: 150px;
+        height: 150px;
+    }
+
+    
